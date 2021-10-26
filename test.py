@@ -23,4 +23,7 @@ b= 3
 c = np.sin(b)
 print ( c )
 
+print ("welcome to DS")
+list =[1,2,3,4]
+
 
